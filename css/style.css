@@ -61,6 +61,7 @@ body {
 
 #contact {
     text-align: center;
-    color: darkorange;
+    color: #fff;
     bottom: 10%;
+    padding-bottom: 40px;
 }
