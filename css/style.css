@@ -38,9 +38,16 @@ body {
     text-align: center;
 }
 
-#main-header-text {
-    color:#444;
-    font-size: 45px;
+#header #main-header-text {
+  position: absolute;
+  top: 50%;
+  font-size: 50px;
+  font-weight: 700;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  text-transform: uppercase;
+  color: #fff;
 }
 
 #about {
