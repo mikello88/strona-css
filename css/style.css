@@ -18,3 +18,8 @@ body {
 #menu ul {
   margin: 0;
 }
+
+#menu .menu-item a{
+  text-decoration: none;
+  color: #fff;
+}
