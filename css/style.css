@@ -28,3 +28,13 @@ body {
     color: #222;
     background-color: beige;
 }
+
+#header {
+    position: relative;
+    text-align: center;
+}
+
+#main-header-text {
+    color:chartreuse;
+}
+
