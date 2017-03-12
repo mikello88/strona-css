@@ -34,6 +34,10 @@ body {
     text-align: center;
 }
 
+#header img {
+    text-align: center;
+}
+
 #main-header-text {
     color:chartreuse;
 }
