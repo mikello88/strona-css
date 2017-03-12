@@ -27,7 +27,7 @@ body {
 
 #menu .menu-item a:hover{
     color: #727272;
-    font-size: 25px;
+  
 
 }
 
@@ -66,6 +66,6 @@ body {
     color: #fff;
     
 }
-#contact a {
+#contact > a {
     text-decoration: none;
 }
