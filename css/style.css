@@ -8,19 +8,13 @@ body {
   background: #222;
   
 }
+
 #menu .menu-item {
-    color: aqua;
-    list-style: none;
-    text-decoration: none;
-    display: inline-block;
-    padding: 25px;
-    
+  display: inline-block;
+  padding: 25px;
+  list-style: none;
 }
 
-
-
-#header {
-    width: 1000px;
-    text-align: center;
-    position: relative;
+#menu ul {
+  margin: 0;
 }
