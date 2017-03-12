@@ -19,7 +19,12 @@ body {
   margin: 0;
 }
 
-#menu .menu-item a{
+#menu .menu-item a {
   text-decoration: none;
   color: #fff;
+}
+
+#menu .menu-item a:hover{
+    color: #222;
+    background-color: beige;
 }
