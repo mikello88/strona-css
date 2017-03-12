@@ -1,14 +1,26 @@
 body {
-    background-color: black;
-
+  margin: 0;
+  font-family: 'Lato', sans-serif;
 }
 
 #menu {
-    text-align: center;
+  text-align: center;
+  background: #222;
+  
+}
+#menu .menu-item {
+    color: aqua;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 25px;
     
 }
 
-.menu-item {
-    color: aqua;
-    list-style: none;
+
+
+#header {
+    width: 1000px;
+    text-align: center;
+    position: relative;
 }
