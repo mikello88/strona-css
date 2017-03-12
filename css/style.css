@@ -38,6 +38,7 @@ body {
 
 #header img {
     text-align: center;
+    width: 100%;
 }
 
 #header #main-header-text {
@@ -63,8 +64,7 @@ body {
 #contact {
     text-align: center;
     color: #fff;
-    bottom: 10%;
-    padding-bottom: 40px;
+    
 }
 #contact a {
     text-decoration: none;
