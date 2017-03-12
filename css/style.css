@@ -39,6 +39,7 @@ body {
 }
 
 #main-header-text {
-    color:chartreuse;
+    color:#444;
+    font-size: 45px;
 }
 
