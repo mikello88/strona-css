@@ -26,8 +26,9 @@ body {
 }
 
 #menu .menu-item a:hover{
-    color: #222;
-    background-color: beige;
+    color: #727272;
+    font-size: 25px;
+
 }
 
 #header {
